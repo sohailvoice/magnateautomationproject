@@ -1,0 +1,2 @@
+Stock in hand: 86
+Stock value : Stock in hand: 86

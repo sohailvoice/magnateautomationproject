@@ -1,0 +1,10 @@
+[
+  "test/test_browser.py::TestLoging::test_001",
+  "test/test_login.py::TestLogin::test_001",
+  "test/test_stock.py::TestStockTransfer::test_001",
+  "test/test_stock.py::TestStockTransfer::test_create_stock_transfer",
+  "test/test_stock.py::TestStockTransfer::test_go_Stock_transfer_page",
+  "test/test_stock_adjustment.py::TestStockAdjustment::test_001",
+  "test/test_stock_adjustment.py::TestStockAdjustment::test_create_stock_adjustment",
+  "test/test_stock_adjustment.py::TestStockAdjustment::test_go_Stock_transfer_page"
+]

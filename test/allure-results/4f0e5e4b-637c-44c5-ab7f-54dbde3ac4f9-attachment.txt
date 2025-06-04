@@ -1,0 +1,2 @@
+<selenium.webdriver.remote.webelement.WebElement (session="0a9731f5-9eda-47df-af21-18ad637e5947", element="807ab304-d551-4d2a-adc6-c564ed2c652e")>
+Retrieved Value: 11.00
